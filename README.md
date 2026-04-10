@@ -49,7 +49,7 @@ galaxy-defender/
 
 ## 👨‍💻 Desarrollador
 
-**[Tu Nombre]** — Desarrollo Web  
+**Pedro Said Otero** — Desarrollo Web  
 Curso: Programación Web Avanzada
 
 ## 🖼️ Imágenes Requeridas
